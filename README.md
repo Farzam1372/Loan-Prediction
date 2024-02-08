@@ -1,5 +1,4 @@
 # Loan-Prediction
-
 # My Adventure 🚗 
 Trying my first online data science challenge was exciting! I learned a lot about real data and making models. It wasn't just a contest – it helped me learn a ton about data science.
 
