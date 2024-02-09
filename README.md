@@ -16,12 +16,12 @@ I'm thrilled to share that my submission outperformed 75% of all submissions, ac
 #  Project Structure 🗂️
 Here's an overview of the project directory:
 
-# Data 📊
+- Data 📊
 data/data_descriptions.csv: Descriptions and details about the data attributes.
 data/prediction_submission.csv: My model's predictions on the test set.
 data/test.csv: The testing dataset without labels.
 data/test_with_default.csv: The testing dataset with labels.
 data/train.csv: The training dataset used to train the model.
-# Notebooks 📓
+- Notebooks 📓
 local_eda.ipynb: Contains exploratory data analysis (EDA) on the training dataset, including visualizations, statistical summaries, and initial findings. This notebook was executed locally on my computer.
 submission.ipynb: The official notebook for submission. Contains all the preprocessing, model training, evaluation, and prediction steps.
