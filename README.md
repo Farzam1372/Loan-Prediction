@@ -12,3 +12,16 @@ In this challenge, we dealt with the loan default prediction problem on a unique
 #  My Results 🏆
 I'm thrilled to share that my submission outperformed 75% of all submissions, achieving a higher rank than 24% of those who completed the project, with a score of 75%, compared to the median score of 52.78%. 🎉
 ![1](https://github.com/Farzam1372/Loan-Prediction/assets/134938081/c3262463-475a-4a3f-b0d0-27be0a3ef8af)
+
+#  Project Structure 🗂️
+Here's an overview of the project directory:
+
+# Data 📊
+data/data_descriptions.csv: Descriptions and details about the data attributes.
+data/prediction_submission.csv: My model's predictions on the test set.
+data/test.csv: The testing dataset without labels.
+data/test_with_default.csv: The testing dataset with labels.
+data/train.csv: The training dataset used to train the model.
+# Notebooks 📓
+local_eda.ipynb: Contains exploratory data analysis (EDA) on the training dataset, including visualizations, statistical summaries, and initial findings. This notebook was executed locally on my computer.
+submission.ipynb: The official notebook for submission. Contains all the preprocessing, model training, evaluation, and prediction steps.
